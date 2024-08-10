@@ -1,7 +1,7 @@
 #include<stdio.h>
 
-void modifyValue(int *x) {
-    *x = 10;
+void modifyValue(int *x) {  
+    *x = 10; // * symbol means pointer 
 }
 
 int main() {
