@@ -1,8 +1,7 @@
-### Step 1: Basics of Programming
-         i) Understanding Programming Concepts
-         ii) Variables
-         iii) Data Types
-         iv) Operators
+### Step 1:  Understanding Programming Concepts
+         i) Variables
+         ii) Data Types
+         iii) Operators
 ### Step 2: C Basics
          i) Installation and Setup
          ii) Installing a C Compiler (e.g., GCC)
