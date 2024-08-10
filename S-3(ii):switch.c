@@ -1,8 +1,7 @@
 // switch
-
 #include <stdio.h>
-int day = 2;
 int main(){
+int day = 5;
 switch (day) {
     case 1:
         printf("Monday\n");
