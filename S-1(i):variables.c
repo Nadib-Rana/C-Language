@@ -3,3 +3,9 @@
 // Example:
 int age ;
 age = 26;
+
+float prince = 19.33;
+
+char Name = "Nadib Rana";
+
+
